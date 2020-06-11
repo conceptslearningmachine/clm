@@ -5,4 +5,6 @@
 www.conceptslearningmachine.com
 
 
-phone.number_+17192901538
+conceptslearningmachinedrive@gmail.com
+
+future; conceptslearningmachine inc.
