@@ -7,4 +7,4 @@ www.conceptslearningmachine.com
 
 conceptslearningmachinedrive@gmail.com
 
-future; conceptslearningmachine incorporated
+future; conceptslearningmachine INC.
