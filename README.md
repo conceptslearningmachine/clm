@@ -7,4 +7,4 @@ www.conceptslearningmachine.com
 
 conceptslearningmachinedrive@gmail.com
 
-future; conceptslearningmachine INC.
+including future; conceptslearningmachine non-profit, location; TBD.
