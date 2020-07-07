@@ -1,5 +1,5 @@
 # CLM
- conceptslearningmachine LLC.
+ conceptslearningmachine LLC
 
 
 www.conceptslearningmachine.com
