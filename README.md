@@ -4,5 +4,5 @@ CLM Limited Liability Company
 
 www.conceptslearningmachine.com
 
-conceptslearningmachinedrive@gmail.com
+CLMLimitedLiabilityCompany@gmail.com
 
