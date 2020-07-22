@@ -1,0 +1,4 @@
+accountant; thomas catalano
+
+the protcol requisite/requirement;
+for by a non-existing network & ntp; data & date_time synchronization log/ledger.
