@@ -2,7 +2,7 @@
  
 CLM Limited Liability Company
 
-www.conceptslearningmachine.com
+conceptslearningmachine.com
 
 CLMLimitedLiabilityCompany@gmail.com
 
