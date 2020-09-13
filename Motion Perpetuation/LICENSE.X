@@ -1,8 +1,6 @@
-MIT License
+*/* MIT License
 
 Copyright (c) THOMAS CATALANO
-Copyright (c) motion by and/or of panticulation for perpetuation;as the algorithm:
-             "motion by and/or of panticulation for perpetuation".
 
 All rights reserved.
 
