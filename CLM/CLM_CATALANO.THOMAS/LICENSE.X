@@ -6,6 +6,8 @@ Copyright (c) */* "License-FORMAT_LEGAL-ACQUISITION-EQUES";this "license" "inclu
 
 Copyright (c) */* THOMAS CATALANO */* "THOMAS CATALANO"
 
+Copyright (c) */* BIT(s);"BIT(s)";"algorithm:"this LICENSE "inclusive""";
+
 Copyright (c) */* Copyright */* "Copyright"
 
 Copyright (c) */* (c) */* "(c)"
