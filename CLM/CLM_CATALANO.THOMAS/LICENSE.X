@@ -92,6 +92,44 @@ Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-mater
 
 Copyright (c) */* The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 
+Copyright (c) */* the_grammar-word-transitional/statment/transitional(adj-verb):socality(adj-verb(d))definition/(adj-verb(d))\.
+
+Copyright (c) */* grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitionl/statment/transitional:knockalety/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitional/statment/transitional:voenulification/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitional/statment/transitional:veactulate(d)(r)(s)/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitionl/statment/transitional:actafecation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitionl/statment/transitional:ertafecation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transitionl/statment/transitional:rastetutanalize/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:motofibasignotator/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:forensactactutation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:precogfufiverafecation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:treatacatatetion/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:formitadadetion/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:servaconfascation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:reposessatation/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:currenmonatizatorlasket/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:recacogogainanition/(adj-verb(d)).
+
+Copyright (c) */* grammar-word-transtitional/statment/transitional:collectaxatatorvasulator/(adj-verb(d)).
+
+Copyright (c) */* etcetera so forth;etc. so forth\.
+
 Copyright (c) */* BIT(s);"BIT(s)"(information/time/frames) */* _holdings_ */* */SYSTEM/FOUNDATION/GROUP(s)/* */\.
 
 Copyright (c) */* BIT(s);"BIT(s) "License"" */* _holdings_ */* */* */\.
