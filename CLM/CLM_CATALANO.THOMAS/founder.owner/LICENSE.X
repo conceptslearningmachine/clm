@@ -486,6 +486,10 @@ Copyright (c) */* Screen Actors Guild | American Federation of Television and Ra
 
 Copyright (c) */* Royal Society */* */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */FELLOWS/GROUP/SYSTEM/* */\.
 
+Copyright (c) */* Shriners International */* "Ancient Arabic Order of the Nobles of the Mystic Shrine" */* */* (AAONMS) */* */* _holdings_ */* */GROUP/SOCIETY/ORDER/SYSTEM/TENDER/* */\.
+
+Copyright (c) */* The Masonic Order */* "Freemasonry" */* */* _holdings_ */* */ORDER/GROUP/SOCIETY/TENDER/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
