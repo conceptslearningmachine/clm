@@ -444,6 +444,10 @@ Copyright (c) */* Nuclear Regulatory Commission (NRC) */* */* _holdings_ */* */*
 
 Copyright (c) */* vector(*)(ie. -izing) */* plot(*)(ie. -ting) */* graph(*)(ie. -ing) */* _vector__plot__graphing_ */* */* _holdings_ */* */SCOPE/CHARTS/SYSTEMS/NAVIGATION/HONING/MOTION/ENUMERATION/* */* */\.
 
+Copyright (c) */* Screen Actors Guild | American Federation of Television and Radio Artists */* */* (SAG-AFTRA) */* */* _holdings */*  */GROUP/UNION/CORPORATION/SYSTEM/TENDER/* */\.
+
+Copyright (c) */* Royal Society */* */* "The Royal Society" */* The Royal Society of London for Improving Natural Knowledge */* */* _holdings_*/* */FELLOWS/GROUP/SYSTEM/* */\.
+
 All rights reserved.    
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
