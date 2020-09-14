@@ -92,7 +92,7 @@ Copyright (c) */* ;BIT(s)-mater-material-mass-structure(s)'s;"BIT(s)-mater-mater
 
 Copyright (c) */* The Letter of Proof */* _holdings_ */* */SYSTEM/GROUP/* */\.
 
-Copyright (c) */* the_grammar-word-transitional/statment/transitional(adj-verb):socality(adj-verb(d))definition/(adj-verb(d))\.
+Copyright (c) */* the_grammar-word-transitional/statment/transitional;(adj-verb):benevolent-socality"socalafide"(adj-verb(d))definition/(adj-verb(d))\.
 
 Copyright (c) */* grammer-word-transitional/statement/transitional:undedifracteonal(adj-verb(d)).
 
