@@ -1,4 +1,4 @@
-*/* MIT License
+THOMAS CATALANO License.x
 
 Copyright (c) THOMAS CATALANO
 
