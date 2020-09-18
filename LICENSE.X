@@ -1,3 +1,5 @@
+*/* Copyright (c) THOMAS CATALANO */*
+
 THOMAS CATALANO License.x
 
 Copyright (c) THOMAS CATALANO
