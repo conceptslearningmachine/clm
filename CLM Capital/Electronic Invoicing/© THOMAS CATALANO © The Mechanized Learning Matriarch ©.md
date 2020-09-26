@@ -2,7 +2,7 @@
 
 © THOMAS CATALANO ©
 
-;publication; Dr.ThomasCatalano;
+;publication; Dr.ThomasCatalano Ph.D.;
 
 The Mechanized Learning Matriarch;:
 
