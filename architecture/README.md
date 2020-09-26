@@ -3,7 +3,7 @@
 conceptslearningmachine architecture 
 
 # 
-github.com/tomsnode/Copyright/blob/master/README.md\
+www.github.com/tomsnode/Copyright/blob/master/README.md\
 
 #
 Dr.ThomasCatalano Ph.D.
