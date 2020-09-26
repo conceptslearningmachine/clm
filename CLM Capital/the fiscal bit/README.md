@@ -5,7 +5,7 @@ https://github.com/tomsnode/Autobiography/blob/master/Scientific%20Publications/
 #
 Dr.ThomasCatalano Ph.D.
 ----------
-;;THOMAS CATALANO _4812).
+;;THOMAS CATALANO -4812).
 
 -----------
 
