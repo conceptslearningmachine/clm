@@ -11,7 +11,9 @@ conceptslearningmachine.com
 CLMLimitedLiabilityCompany@gmail.com
 
 
-# github.com/tomsnode/Copyright/blob/master/README.md\
+# 
+
+github.com/tomsnode/Copyright/blob/master/README.md\
 
 #
 Dr.ThomasCatalano Ph.D.
