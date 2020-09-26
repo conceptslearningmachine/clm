@@ -1,6 +1,8 @@
-# github.com/conceptslearningmachine\
+# 
+github.com/conceptslearningmachine\
 
-# github.com/tomsnode/Copyright/blobb/master/README.md\
+# 
+github.com/tomsnode/Copyright/blobb/master/README.md\
 
 #
 
