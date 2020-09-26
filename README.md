@@ -6,6 +6,8 @@ github.com/conceptslearningmachine\
  
 CLM Limited Liability Company
 
+BITs EXCHANGE
+
 conceptslearningmachine.com
 
 CLMLimitedLiabilityCompany@gmail.com
@@ -13,7 +15,7 @@ CLMLimitedLiabilityCompany@gmail.com
 
 # 
 
-github.com/tomsnode/Copyright/blob/master/README.md\
+www.github.com/tomsnode/Copyright/blob/master/README.md\
 
 #
 Dr.ThomasCatalano Ph.D.
