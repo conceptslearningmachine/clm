@@ -1,4 +1,6 @@
-# github.com/conceptslearningmachine\
+# 
+
+github.com/conceptslearningmachine\
 
 # CLM
  
@@ -12,6 +14,9 @@ CLMLimitedLiabilityCompany@gmail.com
 # github.com/tomsnode/Copyright/blob/master/README.md\
 
 #
-Dr.ThomasCatalano(Ph.D. Gravaphysicist);;THOMAS CATALANO _4812).
+Dr.ThomasCatalano Ph.D.
+----------------
 
 5120 N Broadway APT:302 Denver Colorado(CO) 80216-2099 _USA
+
+© THOMAS CATALANO ©
