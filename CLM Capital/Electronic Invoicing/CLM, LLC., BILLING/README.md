@@ -1,14 +1,18 @@
 #
 
+github.com/tomsnode/Copyright/blob/master/README.md\
+#
+
 www.github.com/tomsnode/Autobiography/blob/master/Scientific%20Publications/the%20fiscal%20bit/Copyright%20(c)%20THOMAS%20CATALANO%20_-%20_Copyright%20(c)%20the%20fiscal%20bit.txt
 
 #
 Dr.ThomasCatalano Ph.D.
 ----------
-;;THOMAS CATALANO -4812).
+©THOMAS CATALANO-4812©
 
 -----------
 
 5120 N Broadway APT:302 Denver Colorado(CO) 80216-2099 _USA
 
-© THOMAS CATALANO ©
+    © THOMAS CATALANO ©
+©tc©
