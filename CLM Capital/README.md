@@ -1,6 +1,6 @@
 # 
 
-github.com/conceptslearningmachine\
+www.github.com/conceptslearningmachine
 
 # 
 
